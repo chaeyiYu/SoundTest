@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"SFX_isabel_wedding_receive_sword_hit",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.5878458,
+  "name":"SFX_isabel_wedding_receive_sword_hit",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"SFX_isabel_wedding_receive_sword_hit.wav",
+  "type":0,
+  "volume":1.0,
+}

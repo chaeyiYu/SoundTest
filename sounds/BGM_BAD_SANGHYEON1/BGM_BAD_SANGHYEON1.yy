@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"BGM_BAD_SANGHYEON1",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":65.03265,
+  "name":"BGM_BAD_SANGHYEON1",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"BGM_BAD_SANGHYEON1.ogg",
+  "type":0,
+  "volume":1.0,
+}

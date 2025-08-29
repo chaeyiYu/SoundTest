@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"BGM_THE_GEMSTONE",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":57.14957,
+  "name":"BGM_THE_GEMSTONE",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"BGM_THE_GEMSTONE.ogg",
+  "type":0,
+  "volume":1.0,
+}

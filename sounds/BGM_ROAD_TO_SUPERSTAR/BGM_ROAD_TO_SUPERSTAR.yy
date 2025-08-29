@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"BGM_ROAD_TO_SUPERSTAR",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":179.20045,
+  "name":"BGM_ROAD_TO_SUPERSTAR",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"BGM_ROAD_TO_SUPERSTAR.ogg",
+  "type":0,
+  "volume":1.0,
+}

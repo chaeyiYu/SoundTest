@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"SFX_ELEVATOR_OPEN",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":9.216009,
+  "name":"SFX_ELEVATOR_OPEN",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"SFX_ELEVATOR_OPEN.wav",
+  "type":0,
+  "volume":1.0,
+}

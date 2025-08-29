@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"BGM_TAKE_ME_HIGHER",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":211.43016,
+  "name":"BGM_TAKE_ME_HIGHER",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"BGM_TAKE_ME_HIGHER.ogg",
+  "type":0,
+  "volume":1.0,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"SFX_BLINK_SHINE",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":3.0925398,
+  "name":"SFX_BLINK_SHINE",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"SFX_BLINK_SHINE.mp3",
+  "type":0,
+  "volume":1.0,
+}

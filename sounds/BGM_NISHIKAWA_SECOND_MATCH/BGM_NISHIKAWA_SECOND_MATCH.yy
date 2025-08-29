@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"BGM_NISHIKAWA_SECOND_MATCH",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":142.77597,
+  "name":"BGM_NISHIKAWA_SECOND_MATCH",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"BGM_NISHIKAWA_SECOND_MATCH.ogg",
+  "type":0,
+  "volume":1.0,
+}

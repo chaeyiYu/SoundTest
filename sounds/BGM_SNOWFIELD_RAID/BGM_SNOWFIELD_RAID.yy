@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"BGM_SNOWFIELD_RAID",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":127.34241,
+  "name":"BGM_SNOWFIELD_RAID",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"BGM_SNOWFIELD_RAID.ogg",
+  "type":0,
+  "volume":1.0,
+}

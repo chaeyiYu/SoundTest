@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"SFX_SERVE_READY_B",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.8440136,
+  "name":"SFX_SERVE_READY_B",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"SFX_SERVE_READY_B.wav",
+  "type":0,
+  "volume":1.0,
+}

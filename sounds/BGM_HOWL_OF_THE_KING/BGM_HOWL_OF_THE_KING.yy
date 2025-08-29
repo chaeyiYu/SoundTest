@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"BGM_HOWL_OF_THE_KING",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":149.30495,
+  "name":"BGM_HOWL_OF_THE_KING",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"BGM_HOWL_OF_THE_KING.ogg",
+  "type":0,
+  "volume":1.0,
+}

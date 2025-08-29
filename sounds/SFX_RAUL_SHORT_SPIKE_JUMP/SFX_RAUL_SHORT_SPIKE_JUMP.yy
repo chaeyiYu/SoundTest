@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"SFX_RAUL_SHORT_SPIKE_JUMP",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.5675057,
+  "name":"SFX_RAUL_SHORT_SPIKE_JUMP",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"SFX_RAUL_SHORT_SPIKE_JUMP.wav",
+  "type":0,
+  "volume":1.0,
+}

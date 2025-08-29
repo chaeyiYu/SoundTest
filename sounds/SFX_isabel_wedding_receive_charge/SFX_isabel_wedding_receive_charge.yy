@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"SFX_isabel_wedding_receive_charge",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.1159184,
+  "name":"SFX_isabel_wedding_receive_charge",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"SFX_isabel_wedding_receive_charge.mp3",
+  "type":0,
+  "volume":1.0,
+}

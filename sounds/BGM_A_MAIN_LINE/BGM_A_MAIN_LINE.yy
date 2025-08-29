@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"BGM_A_MAIN_LINE",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":38.819885,
+  "name":"BGM_A_MAIN_LINE",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"BGM_A_MAIN_LINE.ogg",
+  "type":0,
+  "volume":1.0,
+}
