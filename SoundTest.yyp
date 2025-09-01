@@ -27,9 +27,7 @@
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
-  "IncludedFiles":[
-    {"$GMIncludedFile":"","%Name":"s_buzz2","CopyToMask":-1,"filePath":"datafiles","name":"s_buzz2","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
-  ],
+  "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
@@ -37,8 +35,7 @@
   },
   "name":"SoundTest",
   "resources":[
-    {"id":{"name":"Button_Play","path":"objects/Button_Play/Button_Play.yy",},},
-    {"id":{"name":"InputFeild","path":"objects/InputFeild/InputFeild.yy",},},
+    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"SoundPlayer","path":"objects/SoundPlayer/SoundPlayer.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"ball_bag1","path":"sounds/ball_bag1/ball_bag1.yy",},},
@@ -346,9 +343,10 @@
     {"id":{"name":"sol_intro","path":"sounds/sol_intro/sol_intro.yy",},},
     {"id":{"name":"Sound198","path":"sounds/Sound198/Sound198.yy",},},
     {"id":{"name":"yon_intro","path":"sounds/yon_intro/yon_intro.yy",},},
+    {"id":{"name":"pause","path":"sprites/pause/pause.yy",},},
     {"id":{"name":"play","path":"sprites/play/play.yy",},},
     {"id":{"name":"plus","path":"sprites/plus/plus.yy",},},
-    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
+    {"id":{"name":"sp_delete","path":"sprites/sp_delete/sp_delete.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
